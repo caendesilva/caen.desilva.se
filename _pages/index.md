@@ -9,16 +9,16 @@ Fullstack Web Developer
 -----------------------
 
 ### About me
-With a background in freelance front-end development, nowadays I am mainly building open source apps with Laravel. 
+With a background in freelance front-end development, nowadays I am mainly building open source apps with Laravel.
+Though you probably know me as the creator of HydePHP 🎩  
 
 * 🌍  I'm based in Sweden
-* 🖥️  See my portfolio at [Coming soon!](https://desilva.se)
 * ✉️  You can contact me at [caen@desilva.se](mailto:caen@desilva.se)
 * 🚀  I'm currently working on [HydePHP](http:s//hydephp.com)
 * 🧠  I'm love learning, and am currently learning FilamentPHP
 * 🤝  I'm open to collaborating on HydePHP and the Mutual Aid App
 * ⚡  I keep an open mind, if you see a mistake in my code, let me know, and send a PR!
-* 🎩  You probably know me as the creator of HydePHP
+
 
 <a href="https://www.twitter.com/CodeWithCaen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/CodeWithCaen?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
