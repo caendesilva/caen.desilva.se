@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 Hi 👋 My name is Caen De Silva
 ==============================
 
